@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name = "welcome_text">Start Page</string>
+    <string name = "launch_calculator"> Launch Calculator</string>
+</resources>
